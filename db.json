@@ -1,0 +1,27 @@
+{
+  "TypePersonne": [
+      {
+        "id": 1,
+        "code": 1,
+        "libelle": "Personne physique"
+      },
+      {
+        "id": 2,
+        "code": 2,
+        "libelle": "Personne morale"
+      },
+      {
+        "id": 3,
+        "code": 3,
+        "libelle": "Profession libérale"
+      }
+    ],
+    "Bareme": {
+    "tauxNominal": 9.5,
+    "periodicite": 1,
+    "dureeminMois": 24,
+    "dureeMaxMois": 48,
+    "returnMessage": "OK",
+    "returnCode": "0000"
+  }
+}
