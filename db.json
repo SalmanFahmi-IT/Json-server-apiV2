@@ -16,6 +16,28 @@
         "libelle": "Profession libérale"
       }
     ],
+   "TypesFrais": [
+    {
+      "code": "MATE",
+      "libelle": "Matériel"
+    },
+    {
+      "code": "ACCS",
+      "libelle": "Accessoires"
+    },
+    {
+      "code": "ATFR",
+      "libelle": "Autres frais"
+    },
+    {
+      "code": "FRIM",
+      "libelle": "Frais d'immatriculation"
+    },
+    {
+      "code": "OPTO",
+      "libelle": "Options"
+    }
+  ],
     "Bareme": {
     "tauxNominal": 9.5,
     "periodicite": 1,
