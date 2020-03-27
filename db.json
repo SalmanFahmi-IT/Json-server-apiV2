@@ -2,17 +2,17 @@
   "ChiffresCles":[
     {
         "id": 1,
-        "CA": 100000
+        "CA": 100000,
         "libelle": "< 500 000 MAD"
     },
     {
         "id": 2,
-        "CA": 800000
+        "CA": 800000,
         "libelle": "entre 500 000 et 1 000 000 MAD"
     },
     {
         "id": 3,
-        "CA": 2000000
+        "CA": 2000000,
         "libelle": "> 1 000 000 MAD"
     }
   ],
