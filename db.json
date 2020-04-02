@@ -63,30 +63,5 @@
         "returnMessage": "OK",
         "returnCode": "0000"
     },
-    "ProductCategoriesBiens": [
-        {
-            "id": "1",
-            "label": "Materiel roulant sans Assurleas",
-            "value": "1",
-            "productId": "P001"
-        },
-        {
-            "id": "2",
-            "label": "Materiel roulant avec Assurleas",
-            "value": "2",
-            "productId": "P001"
-        },
-        {
-            "id": "3",
-            "label": "Materiel medical",
-            "value": "3",
-            "productId": "P002"
-        },
-        {
-            "id": "4",
-            "label": "Materiel Informatique",
-            "value": "4",
-            "productId": "P002"
-        }
-    ]
+    
 }
