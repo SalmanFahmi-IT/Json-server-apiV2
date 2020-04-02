@@ -66,49 +66,49 @@
   "ProductCategoriesBiens": [
     {
       "id": "1",
-      "label": "Materiel roulant sans Assurleas",
+      "libelle": "Materiel roulant sans Assurleas",
       "value": "1",
       "productId":"P001"
     },
     {
       "id": "2",
-      "label": "Materiel roulant avec Assurleas",
+      "libelle": "Materiel roulant avec Assurleas",
       "value": "2",
       "productId":"P001"
     },
     {
       "id": "3",
-      "label": "Materiel medical",
+      "libelle": "Materiel medical",
       "value": "3",
       "productId":"P002"
     },
     {
       "id": "4",
-      "label": "Materiel Informatique",
+      "libelle": "Materiel Informatique",
       "value": "4",
       "productId":"P002"
     },
     {
       "id": "5",
-      "label": "Materiel Bureautique",
+      "libelle": "Materiel Bureautique",
       "value": "5",
       "productId":"P003"
     },
     {
       "id": "6",
-      "label": "Bien immobilier professionnel",
+      "libelle": "Bien immobilier professionnel",
       "value": "6",
       "productId":"P003"
     },
     {
       "id": "7",
-      "label": "Materiel Bureautique",
+      "libelle": "Materiel Bureautique",
       "value": "5",
       "productId":"P004"
     },
     {
       "id": "8",
-      "label": "Bien immobilier professionnel",
+      "libelle": "Bien immobilier professionnel",
       "value": "6",
       "productId":"P004"
     }
