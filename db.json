@@ -1,66 +1,116 @@
 {
-  "ChiffresCles": [
-  {
-		"id": 1,
-		"CA": 100000,
-		"libelle": "< 500 000 MAD"
-	},
-	{
-		"id": 2,
-		"CA": 800000,
-		"libelle": "entre 500 000 et 1 000 000 MAD"
-	},
-	{
-		"id": 3,
-		"CA": 2000000,
-		"libelle": "> 1 000 000 MAD"
-	}
-],
-  "TypePersonne": [
-      {
-        "id": 1,
-        "code": 1,
-        "libelle": "Personne physique"
-      },
-      {
-        "id": 2,
-        "code": 2,
-        "libelle": "Personne morale"
-      },
-      {
-        "id": 3,
-        "code": 3,
-        "libelle": "Profession libérale"
-      }
+    "ChiffresCles": [
+        {
+            "id": 1,
+            "CA": 100000,
+            "libelle": "< 500 000 MAD"
+        },
+        {
+            "id": 2,
+            "CA": 800000,
+            "libelle": "entre 500 000 et 1 000 000 MAD"
+        },
+        {
+            "id": 3,
+            "CA": 2000000,
+            "libelle": "> 1 000 000 MAD"
+        }
     ],
-   "TypesFrais": [
-    {
-      "code": "MATE",
-      "libelle": "Matériel"
-    },
-    {
-      "code": "ACCS",
-      "libelle": "Accessoires"
-    },
-    {
-      "code": "ATFR",
-      "libelle": "Autres frais"
-    },
-    {
-      "code": "FRIM",
-      "libelle": "Frais d'immatriculation"
-    },
-    {
-      "code": "OPTO",
-      "libelle": "Options"
-    }
-  ],
+    "TypePersonne": [
+        {
+            "id": 1,
+            "code": 1,
+            "libelle": "Personne physique"
+        },
+        {
+            "id": 2,
+            "code": 2,
+            "libelle": "Personne morale"
+        },
+        {
+            "id": 3,
+            "code": 3,
+            "libelle": "Profession lib\u00e9rale"
+        }
+    ],
+    "TypesFrais": [
+        {
+            "code": "MATE",
+            "libelle": "Mat\u00e9riel"
+        },
+        {
+            "code": "ACCS",
+            "libelle": "Accessoires"
+        },
+        {
+            "code": "ATFR",
+            "libelle": "Autres frais"
+        },
+        {
+            "code": "FRIM",
+            "libelle": "Frais d'immatriculation"
+        },
+        {
+            "code": "OPTO",
+            "libelle": "Options"
+        }
+    ],
     "Bareme": {
-    "tauxNominal": 9.5,
-    "periodicite": 1,
-    "dureeminMois": 24,
-    "dureeMaxMois": 48,
-    "returnMessage": "OK",
-    "returnCode": "0000"
-  }
+        "tauxNominal": 9.5,
+        "periodicite": 1,
+        "dureeminMois": 24,
+        "dureeMaxMois": 48,
+        "returnMessage": "OK",
+        "returnCode": "0000"
+    },
+    "ProductCategoriesBiens": [
+        {
+            "id": "1",
+            "label": "Materiel roulant sans Assurleas",
+            "value": "1",
+            "productId": "P001"
+        },
+        {
+            "id": "2",
+            "label": "Materiel roulant avec Assurleas",
+            "value": "2",
+            "productId": "P001"
+        },
+        {
+            "id": "3",
+            "label": "Materiel medical",
+            "value": "3",
+            "productId": "P002"
+        },
+        {
+            "id": "4",
+            "label": "Materiel Informatique",
+            "value": "4",
+            "productId": "P002"
+        },
+        {
+            "id": "5",
+            "label": "Materiel Bureautique",
+            "value": "5",
+            "productId": "P003"
+        },
+        {
+            "id": "6",
+            "label": "Bien immobilier professionnel",
+            "value": "6",
+            "productId": "P003"
+        },
+	{
+            "id": "7",
+            "label": "Materiel Bureautique",
+            "value": "5",
+            "productId": "P004"
+        },
+        {
+            "id": "8",
+            "label": "Bien immobilier professionnel",
+            "value": "6",
+            "productId": "P004"
+        }
+    ]
 }
