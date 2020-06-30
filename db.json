@@ -3,17 +3,17 @@
     {
       "id": 1,
       "CA": 800000,
-      "libelle": "< 1 MMAD"
+      "libelle": "< 10 MMAD"
     },
     {
       "id": 2,
-      "CA": 1500000,
-      "libelle": "entre 1 MMAD et 3 MMAD"
+      "CA": 13000000,
+      "libelle": "entre 10 MMAD et 50 MMAD"
     },
     {
       "id": 3,
-      "CA": 5000000,
-      "libelle": "> 3 MMAD"
+      "CA": 60000000,
+      "libelle": "> 50 MMAD"
     }
   ],
   "TypePersonne": [
